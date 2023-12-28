@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">myFood</string>
+    <string name="read_a_quote">Read a Quote</string>
+    <string name="make_meal">Make Meal</string>
+    <string name="lets_make_our_meal_shall_we">Lets Make Our Meal Shall We?</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="login_to_your_account">Login to your Account</string>
+    <string name="you_dont_have_an_account">You dont have an account</string>
+    <string name="password">Password</string>
+    <string name="foode_io">Foode io</string>
+    <string name="username">Username</string>
+</resources>
